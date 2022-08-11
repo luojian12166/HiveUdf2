@@ -10,7 +10,7 @@
 
     <!-- 根据要连接的hadoop和hive，设置版本参数 -->
     <properties>
-        <hadoop.version>3.0.0-cdh6.2.0</hadoop.version>
+        <hadoop.version>3.2.4</hadoop.version>
         <hive.version>2.1.1-cdh6.2.0</hive.version>
         <!--<hadoop.version>2.7.3</hadoop.version>-->
         <!--<hive.version>1.2.1</hive.version>-->
